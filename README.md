@@ -1,7 +1,7 @@
 multi-ma
 ---
 
-snippets used to draw multiple ma lines on trading view
+snippets used to draw multiple ma lines on tradingview
 
 ```
 study(title="Moving Averages", shorttitle="MAs", overlay=true)
